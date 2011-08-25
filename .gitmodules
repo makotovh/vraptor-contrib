@@ -40,3 +40,6 @@
 [submodule "post-erro-ajax"]
 	path = post-erro-ajax
 	url = git@github.com:makotovh/post-erro-ajax.git
+[submodule "vraptor-qs-serialization"]
+	path = vraptor-qs-serialization
+	url = https://github.com/moisespsena/vraptor-qs-serialization.git
