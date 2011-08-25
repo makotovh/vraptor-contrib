@@ -37,3 +37,6 @@
 [submodule "vraptor-tasks"]
 	path = vraptor-tasks
 	url = git@github.com:wpivotto/vraptor-tasks.git
+[submodule "post-erro-ajax"]
+	path = post-erro-ajax
+	url = git@github.com:makotovh/post-erro-ajax.git
